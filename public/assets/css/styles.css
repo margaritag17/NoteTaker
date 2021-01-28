@@ -29,13 +29,13 @@ html, body {
 }
 
 .note-title {
-  height: 50px;
+  height: 52px;
   margin-top: 13px;
   font-size: 3rem;
 }
 
 .note-title:read-only, .note-textarea:read-only {
-  color: #757575;
+  color: #b0c6f579;
 }
 
 .list-container .card {
